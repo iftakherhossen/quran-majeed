@@ -1,0 +1,29 @@
+[
+     {
+          "id": "1",
+          "surah_no_en": "2",
+          "surah_no_bn": "২",
+          "name_ar": "",
+          "name_en": "Ayatul Kursi",
+          "name_bn": "আয়াতুল কুরসী",
+          "ayah_array": ["255"]
+     },
+     {
+          "id": "2",
+          "surah_no_en": "2",
+          "surah_no_bn": "২",
+          "name_ar": "",
+          "name_en": "Baqara Last 2 Ayah",
+          "name_bn": "বাকারার শেষ ২ আয়াত",
+          "ayah_array": ["285", "286"]
+     },
+     {
+          "id": "3",
+          "surah_no_en": "59",
+          "surah_no_bn": "৫৯",
+          "name_ar": "",
+          "name_en": "Hashorer Shesh Tin Ayah",
+          "name_bn": "হাশরের শেষ তিন আয়াত",
+          "ayah_array": ["22", "23", "24"]
+     }
+]

@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 /dist
+/src/assets/apiLinks.js
 
 # testing
 /coverage

@@ -1,0 +1,42 @@
+[
+     {
+          "id": 101,
+          "name_bn": "আসমাউল হুসনা",
+          "name_en": "Asmaul Husna"
+     },
+     {
+          "id": 102,
+          "name_bn": "কালেমা সমুহ",
+          "name_en": "Kalima"
+     },
+     {
+          "id": 103,
+          "name_bn": "নামাজের সময়সূচী",
+          "name_en": "Salah Timetable"
+     },
+     {
+          "id": 104,
+          "name_bn": "বিশেষ ইসলামি দিনসমূহ",
+          "name_en": "Special Islami Days"
+     },
+     {
+          "id": 105,
+          "name_bn": "কোরআন মাজীদ টিভি",
+          "name_en": "Quran Majeed TV"
+     },
+     {
+          "id": 107,
+          "name_bn": "অন্যান্য দোয়া",
+          "name_en": "Others Dua"
+     },
+     {
+          "id": 108,
+          "name_bn": "আমাদের সম্পর্কে",
+          "name_en": "About Us"
+     },
+     {
+          "id": 109,
+          "name_bn": "যোগাযোগ",
+          "name_en": "Contact"
+     }
+]

@@ -1,0 +1,62 @@
+[
+     {
+          "number": 1,
+          "name_bn": "কালেমা তায়্যিবা",
+          "name_en": "Kalima Tayyaba",
+          "text_ar": "لَا إِلَٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ",
+          "text_bn": "লা ইলাহা ইল্লাল্লাহ মুহাম্মাদুর রাসুলুল্লাহ।",
+          "text_en": "La ilaha illallahu muhammadur rasulullah.",
+          "meaning_bn": "আল্লাহ ছাড়া অন্য কেউ উপাস্য নাই এবং হযরত মুহাম্মদ (সাঃ) তাঁর প্রেরিত রসূল ।",
+          "meaning_en": "There is none worthy of worship except God (Allah) and Muhammad is the messenger of God."
+     },
+     {
+          "number": 2,
+          "name_bn": "কালেমা শাহাদাৎ",
+          "name_en": "kalima Shahadat",
+          "text_ar": "اَشْهَدُ اَنْ لَّآ اِلٰهَ اِلَّا اللهُ وَحْدَہٗ لَاشَرِيْكَ لَہٗ وَاَشْهَدُ اَنَّ مُحَمَّدًا عَبْدُهٗ وَرَسُولُہٗ",
+          "text_bn": "আশহাদু আল লা-ইলাহা ইল্লাল্লাহু ওয়াহ্দাহু লা-শারিকালাহু ওয়াশহাদু আন্না মুহাম্মাদান আবদুহু ওয়া রাসুলুহু।",
+          "text_en": "Ashhadu al-La Ilaha Ila Allah, Wa Ashhadu an-na Muhammadan Abduhu wa Rasuluhu",
+          "meaning_bn": "আমি সাক্ষ্য দিচ্ছি যে, আল্লাহ ছাড়া অন্য কেউ ইবাদতের উপযুক্ত না এবং আল্লাহর কোন অংশীদার নেই । আমি আরো সাক্ষ্য দিচ্ছি যে, হযরত মুহাম্মদ (সাঃ) আল্লার শ্রেষ্ঠ বান্দা এবং আল্লাহ প্রেরিত রসূল ।",
+          "meaning_en": "I bear witness that there is none worthy of worship except Allah, and I bear witness that Muhammad is His servant and his Messenger."
+     },
+     {
+          "number": 3,
+          "name_bn": "কালেমা তামজীদ",
+          "name_en": "Kalima Tamjid",
+          "text_ar": "سُبْحَان اللهِ وَالْحَمْدُلِلّهِ وَلا إِلهَ إِلّااللّهُ وَاللّهُ أكْبَرُ وَلا حَوْلَ وَلاَ قُوَّةَ إِلَّا بِاللّهِ الْعَلِيِّ الْعَظِيْم",
+          "text_bn": "সুবহানআল্লাহি ওয়াল হামদু লিল্লাহি ওয়ালা ইলাহা ইল্লাল্লাহু ওয়াল্লাহু আকবার, ওয়ালা হাওলা ওয়ালা কুয়াতা ইল্লা বিল্লাহিল আলীইল আজিম।",
+          "text_en": "Subhana Allah, wa Al-hamdu li Allah, wa la Ilaha Ila Allah, wa Allahu Akbar, wa la hawla wa la Quata ila bi-Allahi al-Alai al-Azeem",
+          "meaning_bn": "হিমান্বিত আল্লাহর, সমস্ত প্রশংসা আল্লাহর । আল্লাহ ছাড়া কোন মাবুদ নাই । আল্লাহ মহান... সমস্ত প্বিত্রতা আল্লাহর সকল প্রশংসা আল্লাহর । আল্লাহ ছাড়া কোন শক্তি নাই, কোন ক্ষমতা নাই, তিনি সম্মানিত, তিনি মহান।",
+          "meaning_en": "Glorying Allah, which is saying: Glory be to Allah, praise be to Allah, there is no god but Allah, Allah is the Greatest, and there is no might nor power except with God, the Exalted, the Great"
+     },
+     {
+          "number": 4,
+          "name_bn": "কালেমা তাওহীদ",
+          "name_en": "Kalima Tauheed",
+          "text_ar": "لَآ اِلٰهَ اِلَّا اللهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ لَهُ الْمُلْكُ وَ لَهُ الْحَمْدُ يُحْىٖ وَ يُمِيْتُ وَ هُوَحَیٌّ لَّا يَمُوْتُ اَبَدًا اَبَدًاؕ ذُو الْجَلَالِ وَالْاِكْرَامِؕ بِيَدِهِ الْخَيْرُؕ وَهُوَ عَلٰى كُلِّ شیْ ٍٔ قَدِیْرٌؕ",
+          "text_bn": "লা ইলাহা ইল্লাল্লাহু ওয়াহ্দাহু লা শারিকা লাহু, লাহুল মুলকু ওলাহুল হামদু উহয়ী ওয়া ইয়োমিতু ওয়া হুয়া হাইয়ুল লা ইয়ামুতু আবাদান আবাদা জুল জালালী ওয়াল ইকরাম বি ইয়াদিহিল খাইর ওয়া হুয়া আলা কুল্লি শাইয়িন কাদীর।",
+          "text_en": "",
+          "meaning_bn": "আল্লাহ ব্যতীত কোন উপাস্য নেই । তিনি এক ও অদ্বিতীয় । তার কোন অংশীদার নেই । সকল ক্ষমতা এবং প্রশংসা তার জন্য । তিনি জীবন ও মৃত্যুর মালিক । তিনি চিরঞ্জীব, সকল সম্মানের মালিক । তার হাতেই সকল মঙ্গল সবকিছুর উপর তার ক্ষমতা রয়েছে ।",
+          "meaning_en": "None has the right to be worshipped but Allah alone, who has no partner. To Him belongs the dominion and to Him is the praise. He brings life and He causes death. In His Hand is all good, and He is Able to do all things"
+     },
+     {
+          "number": 5,
+          "name_bn": "ইস্তিগফার",
+          "name_en": "Istighfaar",
+          "text_ar": "اَسْتَغْفِرُ اللهِ رَبِّىْ مِنْ كُلِِّ ذَنْۢبٍ اَذْنَبْتُهٗ عَمَدًا اَوْ خَطَا ًٔ سِرًّا اَوْ عَلَانِيَةً وَّاَتُوْبُ اِلَيْهِ مِنَ الذَّنْۢبِ الَّذِیْٓ اَعْلَمُ وَ مِنَ الذَّنْۢبِ الَّذِىْ لَآ اَعْلَمُ اِنَّكَ اَنْتَ عَلَّامُ الْغُيُوْبِ وَ سَتَّارُ الْعُيُوْبِ و َغَفَّارُ الذُّنُوْبِ وَ لَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللهِ الْعَلِىِِّ الْعَظِيْمِؕ",
+          "text_bn": "আস্তাগফেরুল্লাহ রাব্বি মিন কুল্লি ধামবিন আধনাবতুহু 'আমাদান আও খাতা-আন সিররান আও 'আলাআনিয়াতা-ওয়ান ওয়া-আতবু ইলাহি মিন-আধ ধামবি-ইলাধি এ'লামু ওয়ামিনা-ধ ধামবি-ল লাধি লাআ আ'লামু ইন্নাকা আন্তা 'আল্লাআমু-ল ঘুয়ুবি ওয়াস্ততারু-ল 'উইউবি ওয়া ঘাফফারু-ধ ধুনুবি ওয়ালা হাওয়ালা ওয়ালা কুয়াতা ইল্লা বিল্লাহি-ল 'ইলিয়াইল আযিম।",
+          "text_en": "Istaghfiru Allah Rabi min kuli dhanbin adhnabtuh, a’w khatai’n siran a’w ‘alanatin, wa atoob ilaihi min adh-anbi al-ladhi a’lam, wa min adh-anbi al-ladhi la a’lam, Inaka Anta Alaam al-ghuyoob, wa Sattaar al-‘uyoob, wa ghfaar al-dhunoob, wa la hawla wa la quwata ila bi Allahi al-Alai al-Azeem",
+          "meaning_bn": "আল্লাহ এক আর কোন মাবুদ নেই। হযরত মুহাম্মদ (সাঃ) আল্লাহর প্রেরিত রাসূল। ( অর্থঃ আমি আল্লাহর কাছে ক্ষমা প্রার্থনা করি যে আমার খোদা, সে সব পাপ থেকে যা আমি জেনে অথবা না জেনে , গোপনে কিংবা প্রকাশ্যে করেছি এবং আমি আল্লাহ্ দিকে যাই সেই সমস্ত পাপ থেকে যা আমি জানি কিংবা জানিনা। নিশ্চয়ই তিনি ( আল্লাহ ) , তিনি সব গোপন কিছু জানেন এবং সব গোপন বিষয় সম্পর্কে অবগত আছেন এবং সমস্ত পাপের ক্ষমাকারী। এবং তিনি ( আল্লাহ ) ছাড়া কোন ক্ষমতা বা শক্তি নেই, তিনি সবচেয়ে বড় ও সবচেয়ে মহান।",
+          "meaning_en": "Asking for Forgiveness, which is saying: I ask forgiveness of Allah, my Lord, for every sin I committed intentionally or wrongly, secretly or openly. And I repent to Him from the sin that I know and from the sin that I do not know. You are the Knower of the unseen, the One who cover the mistakes, the Forgiver of sins, and there is no might or power except by Allah, the Most High, and the Most Great"
+     },
+     {
+          "number": 6,
+          "name_bn": "কালেমা রদ্দে কুফর",
+          "name_en": "Kalima Rodde Kuffor",
+          "text_ar": "اَللّٰهُمَّ اِنِّیْٓ اَعُوْذُ بِكَ مِنْ اَنْ اُشْرِكَ بِكَ شَيْئًا وَّاَنَآ اَعْلَمُ بِهٖ وَ اَسْتَغْفِرُكَ لِمَا لَآ اَعْلَمُ بِهٖ تُبْتُ عَنْهُ وَ تَبَرَّأْتُ مِنَ الْكُفْرِ وَ الشِّرْكِ وَ الْكِذْبِ وَ الْغِيْبَةِ وَ الْبِدْعَةِ وَ النَّمِيْمَةِ وَ الْفَوَاحِشِ وَ الْبُهْتَانِ وَ الْمَعَاصِىْ كُلِِّهَا وَ اَسْلَمْتُ وَ اَقُوْلُ لَآ اِلٰهَ اِلَّا اللهُ مُحَمَّدٌ رَّسُوْلُ اللهِؕ",
+          "text_bn": "আল্লাহুম্মা ইন্নি আউযুবিকা মিন আন উশরিকা বিকা শাইআও ওয়া আনা আলামু বিহি ওয়া আসতাগ ফিরুকা লিমা আলামু বিহি ওয়ামা লা আলামু বিহি তুবতু আনহু ওয়া তাবাররাতু মিনাল কুফরি ওয়াশ্শির্কি ওয়াল মা আছি কুল্লিহা ওয়া আসলামতু ওয়া আমানতু ওয়া আক্লু আল্লাহ ইলাহা ইল্লাল্লাহু মুহাম্মাদু রাসূলুল্লাহ।",
+          "text_en": "Allahuma Ini a’uthu bika min an ushrika bika shi’an wa ana a’lamu bih, wa astaghfiruka lima la a’lamu bih, tubtu anhu, wa tabar’tu min al-kufri wa ash-shirki wa al-kazibi wa al-ma’asy kulaha. Aslamtu wa ‘aamantu wa aquul: la ilaha ila Allah, Muhammad rasulu Allah",
+          "meaning_bn": "হে আল্লাহ! আমি তোমার নিকট আশা প্রার্থনা করছি আশা করছি, যেন কাহাকেও তোমার সহিত কখনো অংশীদার না করি। আমার জানা – অজানা গুনাহ হতে ক্ষমা চাইতেছি এবং ইহা হতে তওবা করিতেছি। কুফর, শিরক এবং অন্যান্য সমস্ত গুনাহ হতে বিদূরিত হইতেছি। প্রতিজ্ঞা করিতেছি আল্লাহ ব্যতীত কোন মাবুদ নাই হজরত মুহাম্মদ (সাঃ ) তাঁহার রাসূল।",
+          "meaning_en": "O Allah, I seek refuge with You from associating others with You while knowing. I seek Your forgiveness for that of which I do not know. I repented against that, I disavowed myself of disbelief, polytheism, lying and sins, all of them. I submit myself to You and believed in You. I say: there is no god but Allah, Muhammad is the Messenger of Allah"
+     }
+]

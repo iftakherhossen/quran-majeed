@@ -1,0 +1,794 @@
+[
+     {
+          "name_ar": "الرَّحْمَنُ",
+          "name_en": "Ar Rahmaan",
+          "name_bn": "আর রাহমান",
+          "number": 1,
+          "meaning_bn": "পরম দয়ালু",
+          "meaning_en": "The Beneficent"
+     },
+     {
+          "name_ar": "الرَّحِيمُ",
+          "name_en": "Ar Raheem",
+          "name_bn": "আর রহিম",
+          "number": 2,
+          "meaning_bn": "অতিশয় মেহেরবান",
+          "meaning_en": "The Merciful"
+     },
+     {
+          "name_ar": "الْمَلِكُ",
+          "name_en": "Al Malik",
+          "name_bn": "আল মালিক",
+          "number": 3,
+          "meaning_bn": "সর্বকর্তৃত্বময়",
+          "meaning_en": "The King / Eternal Lord"
+     },
+     {
+          "name_ar": "الْقُدُّوسُ",
+          "name_en": "Al Quddus",
+          "name_bn": "আল কুদ্দুস",
+          "number": 4,
+          "meaning_bn": "অতি পবিত্র",
+          "meaning_en": "The Purest"
+     },
+     {
+          "name_ar": "السَّلاَمُ",
+          "name_en": "As Salaam",
+          "name_bn": "আস সালাম",
+          "number": 5,
+          "meaning_bn": "শান্তি দানকারী",
+          "meaning_en": "The Source of Peace"
+     },
+     {
+          "name_ar": "الْمُؤْمِنُ",
+          "name_en": "Al Mu'min",
+          "name_bn": "আল মুমিন",
+          "number": 6,
+          "meaning_bn": "নিরাপত্তা ও ঈমান দানকারী",
+          "meaning_en": "The inspirer of faith"
+     },
+     {
+          "name_ar": "الْمُهَيْمِنُ",
+          "name_en": "Al Muhaymin",
+          "name_bn": "আল মুহাইমিন",
+          "number": 7,
+          "meaning_bn": "পরিপূর্ণ রক্ষণাবেক্ষণকারী",
+          "meaning_en": "The Guardian"
+     },
+     {
+          "name_ar": "الْعَزِيزُ",
+          "name_en": "Al Azeez",
+          "name_bn": "আল আজিজ",
+          "number": 8,
+          "meaning_bn": "পরাক্রমশালী",
+          "meaning_en": "The Precious / The Most Mighty"
+     },
+     {
+          "name_ar": "الْجَبَّارُ",
+          "name_en": "Al Jabbaar",
+          "name_bn": "আল জাব্বার",
+          "number": 9,
+          "meaning_bn": "দুর্নিবার",
+          "meaning_en": "The Compeller"
+     },
+     {
+          "name_ar": "الْمُتَكَبِّرُ",
+          "name_en": "Al Mutakabbir",
+          "name_bn": "আল মুতাকাব্বির",
+          "number": 10,
+          "meaning_bn": "নিরঙ্কুশ শ্রেষ্ঠত্বের অধিকারী",
+          "meaning_en": "The Greatest"
+     },
+     {
+          "name_ar": "الْخَالِقُ",
+          "name_en": "Al Khaaliq",
+          "name_bn": "আল খালিক",
+          "number": 11,
+          "meaning_bn": "সৃষ্টিকর্তা",
+          "meaning_en": "The Creator"
+     },
+     {
+          "name_ar": "الْبَارِئُ",
+          "name_en": "Al Baari",
+          "name_bn": "আল বারী",
+          "number": 12,
+          "meaning_bn": "সঠিকভাবে সৃষ্টিকারী",
+          "meaning_en": "The Maker of Order"
+     },
+     {
+          "name_ar": "الْمُصَوِّرُ",
+          "name_en": "Al Musawwir",
+          "name_bn": "আল মুসাউইর",
+          "number": 13,
+          "meaning_bn": "আকৃতি দানকারী",
+          "meaning_en": "The Shaper of Beauty"
+     },
+     {
+          "name_ar": "الْغَفَّارُ",
+          "name_en": "Al Ghaffaar",
+          "name_bn": "আল গাফ্ফার",
+          "number": 14,
+          "meaning_bn": "পরম ক্ষমাশীল",
+          "meaning_en": "The Forgiving"
+     },
+     {
+          "name_ar": "الْقَهَّارُ",
+          "name_en": "Al Qahhaar",
+          "name_bn": "আল ক্বাহার",
+          "number": 15,
+          "meaning_bn": "কঠোর",
+          "meaning_en": "The Subduer"
+     },
+     {
+          "name_ar": "الْوَهَّابُ",
+          "name_en": "Al Wahhaab",
+          "name_bn": "আল ওয়াহ্হাব",
+          "number": 16,
+          "meaning_bn": "সবকিছু দানকারী",
+          "meaning_en": "The Giver of All"
+     },
+     {
+          "name_ar": "الرَّزَّاقُ",
+          "name_en": "Ar Razzaaq",
+          "name_bn": "আর রাজ্জাক",
+          "number": 17,
+          "meaning_bn": "রিযিকদাতা",
+          "meaning_en": "The Sustainer"
+     },
+     {
+          "name_ar": "الْفَتَّاحُ",
+          "name_en": "Al Fattaah",
+          "name_bn": "আল ফাত্তাহ",
+          "number": 18,
+          "meaning_bn": "বিজয়দানকারী",
+          "meaning_en": "The Opener"
+     },
+     {
+          "name_ar": "اَلْعَلِيْمُ",
+          "name_en": "Al 'Aleem",
+          "name_bn": "আল আলীম",
+          "number": 19,
+          "meaning_bn": "সর্বজ্ঞ",
+          "meaning_en": "The Knower of all"
+     },
+     {
+          "name_ar": "الْقَابِضُ",
+          "name_en": "Al Qaabid",
+          "name_bn": "আল কাবিদ্ব",
+          "number": 20,
+          "meaning_bn": "সংকীর্ণকারী",
+          "meaning_en": "The Constrictor"
+     },
+     {
+          "name_ar": "الْبَاسِطُ",
+          "name_en": "Al Baasit",
+          "name_bn": "আল বাসিত",
+          "number": 21,
+          "meaning_bn": "প্রশস্তকারী",
+          "meaning_en": "The Reliever"
+     },
+     {
+          "name_ar": "الْخَافِضُ",
+          "name_en": "Al Khaafid",
+          "name_bn": "আল খাফিদ",
+          "number": 22,
+          "meaning_bn": "অবনতকারী",
+          "meaning_en": "The Abaser"
+     },
+     {
+          "name_ar": "الرَّافِعُ",
+          "name_en": "Ar Raafi'",
+          "name_bn": "আর রাফী",
+          "number": 23,
+          "meaning_bn": "উন্নতকারী",
+          "meaning_en": "The Exalter"
+     },
+     {
+          "name_ar": "الْمُعِزُّ",
+          "name_en": "Al Mu'iz",
+          "name_bn": "আল মুজিব",
+          "number": 24,
+          "meaning_bn": "সম্মান দানকারী",
+          "meaning_en": "The Bestower of Honour"
+     },
+     {
+          "name_ar": "المُذِلُّ",
+          "name_en": "Al Mudhil",
+          "name_bn": "আল মুদ্বিল্ল",
+          "number": 25,
+          "meaning_bn": "(অবিশ্বাসীদের) বেইজ্জতকারী",
+          "meaning_en": "The Humiliator"
+     },
+     {
+          "name_ar": "السَّمِيعُ",
+          "name_en": "As Samee'",
+          "name_bn": "আস সামি",
+          "number": 26,
+          "meaning_bn": "সর্বশ্রোতা",
+          "meaning_en": "The Hearer of all"
+     },
+     {
+          "name_ar": "الْبَصِيرُ",
+          "name_en": "Al Baseer",
+          "name_bn": "আল বাসীর",
+          "number": 27,
+          "meaning_bn": "সর্ববিষয় দর্শনকারী",
+          "meaning_en": "The Seer of all"
+     },
+     {
+          "name_ar": "الْحَكَمُ",
+          "name_en": "Al Hakam",
+          "name_bn": "আল হাকাম",
+          "number": 28,
+          "meaning_bn": "অতল বিচারক",
+          "meaning_en": "The Judge"
+     },
+     {
+          "name_ar": "الْعَدْلُ",
+          "name_en": "Al 'Adl",
+          "name_bn": "আল আদল",
+          "number": 29,
+          "meaning_bn": "পরিপূর্ণ ন্যায়বিচারক",
+          "meaning_en": "The Just"
+     },
+     {
+          "name_ar": "اللَّطِيفُ",
+          "name_en": "Al Lateef",
+          "name_bn": "আল লতিফ",
+          "number": 30,
+          "meaning_bn": "সকল গোপন বিষয়ে অবগত",
+          "meaning_en": "The Subtle One"
+     },
+     {
+          "name_ar": "الْخَبِيرُ",
+          "name_en": "Al Khabeer",
+          "name_bn": "আল খাবির",
+          "number": 31,
+          "meaning_bn": "সকল বিষয়ে জ্ঞাত",
+          "meaning_en": "The All Aware"
+     },
+     {
+          "name_ar": "الْحَلِيمُ",
+          "name_en": "Al Haleem",
+          "name_bn": "আল হালিম",
+          "number": 32,
+          "meaning_bn": "অত্যন্ত ধর্য্যশীল",
+          "meaning_en": "The Forebearing"
+     },
+     {
+          "name_ar": "الْعَظِيمُ",
+          "name_en": "Al 'Azeem",
+          "name_bn": "আল আজিম",
+          "number": 33,
+          "meaning_bn": "সর্বত্ত মর্যাদাশীল",
+          "meaning_en": "The Maginificent"
+     },
+     {
+          "name_ar": "الْغَفُورُ",
+          "name_en": "Al Ghafoor",
+          "name_bn": "আল গফুর",
+          "number": 34,
+          "meaning_bn": "পরম ক্ষমাশীল",
+          "meaning_en": "The Great Forgiver"
+     },
+     {
+          "name_ar": "الشَّكُورُ",
+          "name_en": "Ash Shakoor",
+          "name_bn": "আস শাকুর",
+          "number": 35,
+          "meaning_bn": "গুন্গ্রাহী",
+          "meaning_en": "The Rewarder of Thankfulness"
+     },
+     {
+          "name_ar": "الْعَلِيُّ",
+          "name_en": "Al 'Aliyy",
+          "name_bn": "আল আলী",
+          "number": 36,
+          "meaning_bn": "উচ্চ মর্যাদাশীল",
+          "meaning_en": "The Highest"
+     },
+     {
+          "name_ar": "الْكَبِيرُ",
+          "name_en": "Al Kabeer",
+          "name_bn": "আল কাবিইর",
+          "number": 37,
+          "meaning_bn": "সুমহান",
+          "meaning_en": "The Greatest"
+     },
+     {
+          "name_ar": "الْحَفِيظُ",
+          "name_en": "Al Hafeez",
+          "name_bn": "আল হাফীজ",
+          "number": 38,
+          "meaning_bn": "সংরক্ষণকারী",
+          "meaning_en": "The Preserver"
+     },
+     {
+          "name_ar": "المُقيِت",
+          "name_en": "Al Muqeet",
+          "name_bn": "আল মুক্বিত",
+          "number": 39,
+          "meaning_bn": "সকলের জীবনোপকরণ দানকারী",
+          "meaning_en": "The Nourisher"
+     },
+     {
+          "name_ar": "الْحسِيبُ",
+          "name_en": "Al Haseeb",
+          "name_bn": "আল হাসিব",
+          "number": 40,
+          "meaning_bn": "হিসাব গ্রহণকারী",
+          "meaning_en": "The Reckoner"
+     },
+     {
+          "name_ar": "الْجَلِيلُ",
+          "name_en": "Al Jaleel",
+          "name_bn": "আল জালীল",
+          "number": 41,
+          "meaning_bn": "পরম মর্যাদার অধিকারী",
+          "meaning_en": "The Majestic"
+     },
+     {
+          "name_ar": "الْكَرِيمُ",
+          "name_en": "Al Kareem",
+          "name_bn": "আল কারীম",
+          "number": 42,
+          "meaning_bn": "সুমহান দাতা",
+          "meaning_en": "The Generous"
+     },
+     {
+          "name_ar": "الرَّقِيبُ",
+          "name_en": "Ar Raqeeb",
+          "name_bn": "আর রাক্বীব",
+          "number": 43,
+          "meaning_bn": "তত্ত্বাবধায়ক",
+          "meaning_en": "The Watchful One"
+     },
+     {
+          "name_ar": "الْمُجِيبُ",
+          "name_en": "Al Mujeeb ",
+          "name_bn": "আল মুজীব",
+          "number": 44,
+          "meaning_bn": "কবুলকারী",
+          "meaning_en": "The Responder to Prayer"
+     },
+     {
+          "name_ar": "الْوَاسِعُ",
+          "name_en": "Al Waasi'",
+          "name_bn": "আল ওয়াসি",
+          "number": 45,
+          "meaning_bn": "সর্বত্ত বিরাজমান",
+          "meaning_en": "The All Comprehending"
+     },
+     {
+          "name_ar": "الْحَكِيمُ",
+          "name_en": "Al Hakeem",
+          "name_bn": "আল হাকীম",
+          "number": 46,
+          "meaning_bn": "পরম প্রজ্ঞাময়",
+          "meaning_en": "The Perfectly Wise"
+     },
+     {
+          "name_ar": "الْوَدُودُ",
+          "name_en": "Al Wudood",
+          "name_bn": "আল ওয়াদুদ",
+          "number": 47,
+          "meaning_bn": "(বান্দাদের প্রতি) সদয়বান",
+          "meaning_en": "The Loving One"
+     },
+     {
+          "name_ar": "الْمَجِيدُ",
+          "name_en": "Al Majeed",
+          "name_bn": "আল মাজীদ",
+          "number": 48,
+          "meaning_bn": "সকল মর্যাদার অধিকারী",
+          "meaning_en": "The Most Glorious One"
+     },
+     {
+          "name_ar": "الْبَاعِثُ",
+          "name_en": "Al Baa'ith",
+          "name_bn": "আল বাইস",
+          "number": 49,
+          "meaning_bn": "পুনরুজ্জীবিতকারী",
+          "meaning_en": "The Resurrector"
+     },
+     {
+          "name_ar": "الشَّهِيدُ",
+          "name_en": "Ash Shaheed",
+          "name_bn": "আশ শাহীদ",
+          "number": 50,
+          "meaning_bn": "সর্বজ্ঞ স্বাক্ষী",
+          "meaning_en": "The Witness"
+     },
+     {
+          "name_ar": "الْحَقُّ",
+          "name_en": "Al Haqq",
+          "name_bn": "আল হাক্ব",
+          "number": 51,
+          "meaning_bn": "পরম সত্য",
+          "meaning_en": "The Truth"
+     },
+     {
+          "name_ar": "الْوَكِيلُ",
+          "name_en": "Al Wakeel",
+          "name_bn": "আল ওয়াকিল",
+          "number": 52,
+          "meaning_bn": "পরম নির্ভরযোগ্য কর্ম-সম্পাদনকারী",
+          "meaning_en": "The Trustee"
+     },
+     {
+          "name_ar": "الْقَوِيُّ",
+          "name_en": "Al Qawiyy",
+          "name_bn": "আল ক্বাউউই",
+          "number": 53,
+          "meaning_bn": "পরম শক্তির অধিকারী",
+          "meaning_en": "The Possessor of all strength"
+     },
+     {
+          "name_ar": "الْمَتِينُ",
+          "name_en": "Al Mateen",
+          "name_bn": "আল মাতীন",
+          "number": 54,
+          "meaning_bn": "সুদৃঢ়",
+          "meaning_en": "The Forceful"
+     },
+     {
+          "name_ar": "الْوَلِيُّ",
+          "name_en": "Al Waliyy",
+          "name_bn": "আল ওয়ালীইউ",
+          "number": 55,
+          "meaning_bn": "অভিভাবক ও সাহায্যকারী",
+          "meaning_en": "The Protector"
+     },
+     {
+          "name_ar": "الْحَمِيدُ",
+          "name_en": "Al Hameed",
+          "name_bn": "আল হামীদ",
+          "number": 56,
+          "meaning_bn": "সকল প্রশংসার অধিকারী",
+          "meaning_en": "The Praised"
+     },
+     {
+          "name_ar": "الْمُحْصِي",
+          "name_en": "Al Muhsi",
+          "name_bn": "আল মুহসি",
+          "number": 57,
+          "meaning_bn": "সকল সৃষ্টির ব্যাপারে অবগত",
+          "meaning_en": "The Appraiser"
+     },
+     {
+          "name_ar": "الْمُبْدِئُ",
+          "name_en": "Al Mubdi",
+          "name_bn": "আল মুব্দি",
+          "number": 58,
+          "meaning_bn": "প্রথমবার সৃষ্টিকর্তা",
+          "meaning_en": "The Originator"
+     },
+     {
+          "name_ar": "الْمُعِيدُ",
+          "name_en": "Al Mu'eed",
+          "name_bn": "আল মুঈদ",
+          "number": 59,
+          "meaning_bn": "পুনরায় সৃষ্টিকর্তা",
+          "meaning_en": "The Restorer"
+     },
+     {
+          "name_ar": "الْمُحْيِي",
+          "name_en": "Al Muhiy",
+          "name_bn": "আল মুহয়ি",
+          "number": 60,
+          "meaning_bn": "জীবন দানকারী",
+          "meaning_en": "The Giver of life"
+     },
+     {
+          "name_ar": "اَلْمُمِيتُ",
+          "name_en": "Al Mumeet",
+          "name_bn": "আল মুমীত",
+          "number": 61,
+          "meaning_bn": "মৃত্যু দানকারী",
+          "meaning_en": "The Taker of life"
+     },
+     {
+          "name_ar": "الْحَيُّ",
+          "name_en": "Al Haiyy",
+          "name_bn": "আল হাইয়্যু",
+          "number": 62,
+          "meaning_bn": "চিরঞ্জীব",
+          "meaning_en": "The Ever Living"
+     },
+     {
+          "name_ar": "الْقَيُّومُ",
+          "name_en": "Al Qayyoom",
+          "name_bn": "আল ক্বাইয়ূম",
+          "number": 63,
+          "meaning_bn": "সমস্ত কিছুর ধারক ও সংরক্ষণকারী",
+          "meaning_en": "The Self Existing"
+     },
+     {
+          "name_ar": "الْوَاجِدُ",
+          "name_en": "Al Waajid",
+          "name_bn": "আল ওয়াজীদ",
+          "number": 64,
+          "meaning_bn": "অফুরন্ত ভান্ডারের অধিকারী",
+          "meaning_en": "The Finder"
+     },
+     {
+          "name_ar": "الْمَاجِدُ",
+          "name_en": "Al Maajid",
+          "name_bn": "আল মাজীদ",
+          "number": 65,
+          "meaning_bn": "শ্রেষ্ঠত্বের অধিকারী",
+          "meaning_en": "The Glorious"
+     },
+     {
+          "name_ar": "الْواحِدُ",
+          "name_en": "Al Waahid",
+          "name_bn": "আল ওয়া’হিদ",
+          "number": 66,
+          "meaning_bn": "এক ও অদ্বিতীয়",
+          "meaning_en": "The Only One"
+     },
+     {
+          "name_ar": "اَلاَحَدُ",
+          "name_en": "Al Ahad",
+          "name_bn": "আল আহাদ",
+          "number": 67,
+          "meaning_bn": "এক",
+          "meaning_en": "The One"
+     },
+     {
+          "name_ar": "الصَّمَدُ",
+          "name_en": "As Samad",
+          "name_bn": "আস সামাদ",
+          "number": 68,
+          "meaning_bn": "অমুখাপেক্ষি",
+          "meaning_en": "The Supreme Provider"
+     },
+     {
+          "name_ar": "الْقَادِرُ",
+          "name_en": "Al Qaadir",
+          "name_bn": "আল ক্বাদীর",
+          "number": 69,
+          "meaning_bn": "সর্বশক্তিমান",
+          "meaning_en": "The Powerful"
+     },
+     {
+          "name_ar": "الْمُقْتَدِرُ",
+          "name_en": "Al Muqtadir",
+          "name_bn": "আল মুক্তাদির",
+          "number": 70,
+          "meaning_bn": "নিরঙ্কুশ সিদ্ধান্তের অধিকারী",
+          "meaning_en": "The Creator of all power"
+     },
+     {
+          "name_ar": "الْمُقَدِّمُ",
+          "name_en": "Al Muqaddim",
+          "name_bn": "আল মুক্বদ্দিম",
+          "number": 71,
+          "meaning_bn": "অগ্রসারক",
+          "meaning_en": "The Expediter"
+     },
+     {
+          "name_ar": "الْمُؤَخِّرُ",
+          "name_en": "Al Mu’akhir",
+          "name_bn": "আল মুয়াক্ষীর",
+          "number": 72,
+          "meaning_bn": "অবকাশ দানকারী",
+          "meaning_en": "The Delayer"
+     },
+     {
+          "name_ar": "الأوَّلُ",
+          "name_en": "Al Awwal",
+          "name_bn": "আল আউয়াল",
+          "number": 73,
+          "meaning_bn": "অনাদি",
+          "meaning_en": "The First"
+     },
+     {
+          "name_ar": "الآخِرُ",
+          "name_en": "Al Aakhir",
+          "name_bn": "আল আখির",
+          "number": 74,
+          "meaning_bn": "অনন্ত, সর্বশেষ",
+          "meaning_en": "The Last"
+     },
+     {
+          "name_ar": "الظَّاهِرُ",
+          "name_en": "Az Zaahir",
+          "name_bn": "আল জাহির",
+          "number": 75,
+          "meaning_bn": "সম্পূর্ণরূপে প্রকাশিত",
+          "meaning_en": "The Manifest"
+     },
+     {
+          "name_ar": "الْبَاطِنُ",
+          "name_en": "Al Baatin",
+          "name_bn": "আল বাত্বিন",
+          "number": 76,
+          "meaning_bn": "দৃষ্টি হতে অদৃশ্য",
+          "meaning_en": "The Hidden"
+     },
+     {
+          "name_ar": "الْوَالِي",
+          "name_en": "Al Waali",
+          "name_bn": "আল ওয়ালী",
+          "number": 77,
+          "meaning_bn": "সমস্ত কিছুর অভিভাবক",
+          "meaning_en": "The Governor"
+     },
+     {
+          "name_ar": "الْمُتَعَالِي",
+          "name_en": "Al Muta’ali",
+          "name_bn": "আল মুতা’আলী",
+          "number": 78,
+          "meaning_bn": "সৃষ্টির গুণাবলীর উর্দ্ধে",
+          "meaning_en": "The Supreme One"
+     },
+     {
+          "name_ar": "الْبَرُّ",
+          "name_en": "Al Barr",
+          "name_bn": "আল বার্",
+          "number": 79,
+          "meaning_bn": "পরম উপকারী",
+          "meaning_en": "The Doer of Good"
+     },
+     {
+          "name_ar": "التَّوَابُ",
+          "name_en": "At Tawwaab",
+          "name_bn": "আত তাওয়াব",
+          "number": 80,
+          "meaning_bn": "তাওবার তৌফিক দানকারী ও কবুলকারী",
+          "meaning_en": "The Guide to Repentence"
+     },
+     {
+          "name_ar": "الْمُنْتَقِمُ",
+          "name_en": "Al Muntaqim",
+          "name_bn": "আল মুনতাক্বীম",
+          "number": 81,
+          "meaning_bn": "প্রতিশোধ গ্রহণকারী",
+          "meaning_en": "The Avenger"
+     },
+     {
+          "name_ar": "العَفُوُّ",
+          "name_en": "Al Afuww",
+          "name_bn": "আল আফঊ",
+          "number": 82,
+          "meaning_bn": "পরম উদার",
+          "meaning_en": "The Forgiver"
+     },
+     {
+          "name_ar": "الرَّؤُوفُ",
+          "name_en": "Ar Ra’oof",
+          "name_bn": "আর রউফ",
+          "number": 83,
+          "meaning_bn": "পরম স্নেহশীল",
+          "meaning_en": "The Clement"
+     },
+     {
+          "name_ar": "مَالِكُ الْمُلْكِ",
+          "name_en": "Maalik Ul Mulk",
+          "name_bn": "মালিকুল মূলক",
+          "number": 84,
+          "meaning_bn": "সমগ্র জগতের বাদশাহ",
+          "meaning_en": "The Owner / Soverign of All"
+     },
+     {
+          "name_ar": "ذُوالْجَلاَلِ وَالإكْرَامِ",
+          "name_en": "Dhu Al Jalaali Wa Al Ikraam",
+          "name_bn": "যুল জালালী ওয়াল ইকরাম",
+          "number": 85,
+          "meaning_bn": "মহিমান্বিত ও দয়াবান সত্তা",
+          "meaning_en": "Possessor of Majesty and Bounty"
+     },
+     {
+          "name_ar": "الْمُقْسِطُ",
+          "name_en": "Al Muqsit",
+          "name_bn": "আল মুক্বসিত",
+          "number": 86,
+          "meaning_bn": "হকদারের হক আদায়কারী",
+          "meaning_en": "The Equitable One"
+     },
+     {
+          "name_ar": "الْجَامِعُ",
+          "name_en": "Al Jaami'",
+          "name_bn": "আল জামিই",
+          "number": 87,
+          "meaning_bn": "একত্রকারী, সমবেতকারী",
+          "meaning_en": "The Gatherer"
+     },
+     {
+          "name_ar": "الْغَنِيُّ",
+          "name_en": "Al Ghaniyy",
+          "name_bn": "আল গনি",
+          "number": 88,
+          "meaning_bn": "অমুখাপেক্ষি ধনী",
+          "meaning_en": "The Rich One"
+     },
+     {
+          "name_ar": "الْمُغْنِي",
+          "name_en": "Al Mughi",
+          "name_bn": "আল মুগনিই",
+          "number": 89,
+          "meaning_bn": "পরম অভাবমোচনকারী",
+          "meaning_en": "The Enricher"
+     },
+     {
+          "name_ar": "اَلْمَانِعُ",
+          "name_en": "Al Maani'",
+          "name_bn": "আল মানিই",
+          "number": 90,
+          "meaning_bn": "অকল্যাণরোধক",
+          "meaning_en": "The Preventer of harm"
+     },
+     {
+          "name_ar": "الضَّارَّ",
+          "name_en": "Ad Daaarr",
+          "name_bn": "আদ দর",
+          "number": 91,
+          "meaning_bn": "ক্ষতিসাধনকারী",
+          "meaning_en": "The Creator of the harmful"
+     },
+     {
+          "name_ar": "النَّافِعُ",
+          "name_en": "An Naafi’",
+          "name_bn": "আন নাফিই’",
+          "number": 92,
+          "meaning_bn": "কল্যাণকারী",
+          "meaning_en": "The Bestower of Benefits"
+     },
+     {
+          "name_ar": "النُّورُ",
+          "name_en": "An Noor",
+          "name_bn": "আন নূর",
+          "number": 93,
+          "meaning_bn": "পরম আলো",
+          "meaning_en": "The Light"
+     },
+     {
+          "name_ar": "الْهَادِي",
+          "name_en": "Al Haadi",
+          "name_bn": "আল হাদী",
+          "number": 94,
+          "meaning_bn": "পথ প্রদর্শক",
+          "meaning_en": "The Guider"
+     },
+     {
+          "name_ar": "الْبَدِيعُ",
+          "name_en": "Al Badi'",
+          "name_bn": "আল বাদীই",
+          "number": 95,
+          "meaning_bn": "অতুলনীয়",
+          "meaning_en": "The Originator"
+     },
+     {
+          "name_ar": "اَلْبَاقِي",
+          "name_en": "Al Baaqi",
+          "name_bn": "আল বাক্বী",
+          "number": 96,
+          "meaning_bn": "চিরস্থায়ী, অবিনশ্বর",
+          "meaning_en": "The Everlasting One"
+     },
+     {
+          "name_ar": "الْوَارِثُ",
+          "name_en": "Al Waarith",
+          "name_bn": "আল ওয়ারিস",
+          "number": 97,
+          "meaning_bn": "উত্তরাধিকারী",
+          "meaning_en": "The Inhertior"
+     },
+     {
+          "name_ar": "الرَّشِيدُ",
+          "name_en": "Ar Rasheed",
+          "name_bn": "আর রাশীদ",
+          "number": 98,
+          "meaning_bn": "সঠিক পথ প্রদর্শক",
+          "meaning_en": "The Most Righteous Guide"
+     },
+     {
+          "name_ar": "الصَّبُورُ",
+          "name_en": "As Saboor",
+          "name_bn": "আস সাবুর",
+          "number": 99,
+          "meaning_bn": "অত্যাধিক ধর্য্য ধারণকারী",
+          "meaning_en": "The Patient One"
+     }
+]

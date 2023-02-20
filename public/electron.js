@@ -1,19 +1,25 @@
 // Module to control the application lifecycle and the native browser window.
-const { app, BrowserWindow, protocol } = require("electron");
+const  isDev = require('electron-is-dev');
+const { app, BrowserWindow, protocol, Menu } = require("electron");
 const path = require("path");
 const url = require("url");
+
 
 // Create the native browser window.
 function createWindow() {
   const mainWindow = new BrowserWindow({
-    width: 800,
-    height: 600,
+    minWidth: 1000,
+    minHeight: 700,
+    icon: __dirname + '/icon.ico',
+    autoHideMenuBar: isDev ? false : true,
+    center: true,
     // Set the path of an additional "preload" script that can be used to
     // communicate between node-land and browser-land.
     webPreferences: {
       preload: path.join(__dirname, "preload.js"),
     },
   });
+
 
   // In production, set the initial browser path to the local bundle generated
   // by the Create React App build process.
@@ -27,10 +33,19 @@ function createWindow() {
     : "http://localhost:3000";
   mainWindow.loadURL(appURL);
 
+  app.setAboutPanelOptions({
+    applicationName: "Al-Quran Majeed",
+    applicationVersion: "0.0.1",
+  })
+  
+  mainWindow.onbeforeunload = function () {
+    mainWindow.scrollTo(0, 0);
+  }
+
   // Automatically open Chrome's DevTools in development mode.
-     //   if (!app.isPackaged) {
-     //     mainWindow.webContents.openDevTools();
-     //   }
+    // if (!app.isPackaged) {
+    //   mainWindow.webContents.openDevTools();
+    // }
 }
 
 // Setup a local proxy to adjust the paths of requested files when loading
@@ -89,3 +104,32 @@ app.on("web-contents-created", (event, contents) => {
 
 // In this file you can include the rest of your app's specific main process
 // code. You can also put them in separate files and require them here.
+
+// Menu Functions
+const handleOpenFile = () => {
+  console.log("open file clicked!");
+}
+const handleOpenRecent = () => {
+  console.log("open file clicked!");
+}
+
+// Adding Menu
+const menu_list = [
+  {
+    label: "File",
+    submenu: [
+      {
+        label: "Open File...",
+        click: handleOpenFile()
+      },
+      {
+        label: "Open Recent...",
+        click: handleOpenRecent()
+      }
+    ],
+  }
+];
+
+// Setting new menu to desktop app
+const menu = Menu.buildFromTemplate(menu_list);
+// Menu.setApplicationMenu(menu)
